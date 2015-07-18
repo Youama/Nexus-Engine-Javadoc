@@ -1,0 +1,7 @@
+com.youama.nexus.core
+com.youama.nexus.core.net
+com.youama.nexus.core.validator
+com.youama.nexus.crawler
+com.youama.nexus.parser
+com.youama.nexus.parser.collector
+com.youama.nexus.scheduler
