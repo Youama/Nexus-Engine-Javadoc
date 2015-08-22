@@ -9,3 +9,4 @@ com.youama.nexus.crawler
 com.youama.nexus.parser
 com.youama.nexus.parser.collector
 com.youama.nexus.scheduler.entity.task
+com.youama.nexus.simple
