@@ -2,6 +2,7 @@ com.youama.nexus.core
 com.youama.nexus.core.base
 com.youama.nexus.core.item
 com.youama.nexus.core.net
+com.youama.nexus.core.search
 com.youama.nexus.core.system
 com.youama.nexus.core.text
 com.youama.nexus.core.validator
