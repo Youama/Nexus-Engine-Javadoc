@@ -7,6 +7,7 @@ com.youama.nexus.core.system
 com.youama.nexus.core.text
 com.youama.nexus.core.validator
 com.youama.nexus.crawler
+com.youama.nexus.japi
 com.youama.nexus.parser
 com.youama.nexus.parser.collector
 com.youama.nexus.scheduler.entity.task
