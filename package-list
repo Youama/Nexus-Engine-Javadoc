@@ -1,5 +1,7 @@
 com.youama.nexus.core
 com.youama.nexus.core.base
+com.youama.nexus.core.engine.scope.model
+com.youama.nexus.core.engine.scope.service
 com.youama.nexus.core.item
 com.youama.nexus.core.net
 com.youama.nexus.core.search
@@ -10,5 +12,6 @@ com.youama.nexus.crawler
 com.youama.nexus.japi
 com.youama.nexus.parser
 com.youama.nexus.parser.collector
-com.youama.nexus.scheduler.entity.task
+com.youama.nexus.scheduler.task.model
+com.youama.nexus.scheduler.task.service
 com.youama.nexus.simple
