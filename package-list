@@ -1,10 +1,10 @@
 com.youama.nexus.core
 com.youama.nexus.core.base
-com.youama.nexus.core.engine.scope.model
-com.youama.nexus.core.engine.scope.service
 com.youama.nexus.core.io
 com.youama.nexus.core.item
+com.youama.nexus.core.model.scope
 com.youama.nexus.core.search
+com.youama.nexus.core.service.scope
 com.youama.nexus.core.system
 com.youama.nexus.core.text
 com.youama.nexus.core.validator
@@ -18,11 +18,11 @@ com.youama.nexus.simple
 com.youama.nexus.wordplex
 com.youama.nexus.wordplex.importer
 com.youama.nexus.wordplex.importer.text
-com.youama.nexus.wordplex.model
+com.youama.nexus.wordplex.model.connection
 com.youama.nexus.wordplex.model.sentence
 com.youama.nexus.wordplex.model.text
 com.youama.nexus.wordplex.model.word
-com.youama.nexus.wordplex.service
+com.youama.nexus.wordplex.service.connection
 com.youama.nexus.wordplex.service.sentence
 com.youama.nexus.wordplex.service.text
 com.youama.nexus.wordplex.service.word
