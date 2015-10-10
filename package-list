@@ -2,8 +2,8 @@ com.youama.nexus.core
 com.youama.nexus.core.base
 com.youama.nexus.core.engine.scope.model
 com.youama.nexus.core.engine.scope.service
+com.youama.nexus.core.io
 com.youama.nexus.core.item
-com.youama.nexus.core.net
 com.youama.nexus.core.search
 com.youama.nexus.core.system
 com.youama.nexus.core.text
