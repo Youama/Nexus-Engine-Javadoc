@@ -15,6 +15,7 @@ com.youama.nexus.parser.collector
 com.youama.nexus.scheduler.model.task
 com.youama.nexus.scheduler.service.task
 com.youama.nexus.simple
+com.youama.nexus.wordplex
 com.youama.nexus.wordplex.importer
 com.youama.nexus.wordplex.importer.text
 com.youama.nexus.wordplex.model
